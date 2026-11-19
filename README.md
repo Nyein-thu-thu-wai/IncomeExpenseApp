@@ -32,4 +32,7 @@ React Native Expo နှင့် `expo-sqlite` ကို အသုံးပြ�
    npm install
    npx exop start
 
+You can download my application
+https://expo.dev/accounts/kadayhtaywins-team/projects/kadayhtaywin/builds/c18a69b2-f4d2-403c-92cb-a985892be889
+
    

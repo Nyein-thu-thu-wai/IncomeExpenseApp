@@ -26,7 +26,7 @@ React Native Expo နှင့် `expo-sqlite` ကို အသုံးပြ�
 
 ## 📥 ထည့်သွင်းအသုံးပြုပုံ (Installation & Setup)
 
-၁။ ကွန်ပျူ터တွင် Repository ကို Clone လုပ်ပါ သို့မဟုတ် ဖိုင်များကို ထည့်ပါ။
+၁။ ကွန်ပျူတာတွင် Repository ကို Clone လုပ်ပါ သို့မဟုတ် ဖိုင်များကို ထည့်ပါ။
 ၂။ လိုအပ်သော Packages များကို Install လုပ်ပါ -
    ```bash
    npm install
